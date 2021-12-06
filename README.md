@@ -1,2 +1,2 @@
 # ImgHosting
-PicGo图床
++ 这是我的个人图床
